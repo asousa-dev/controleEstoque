@@ -1,14 +1,10 @@
-# Java
+# java
 *.class
 
-# IntelliJ IDEA
+# intellij
 .idea/
 *.iml
 
-# Eclipse
-.project
-.classpath
-.settings/
-
-# Maven
+# build
 target/
+out/
