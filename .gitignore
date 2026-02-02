@@ -1,8 +1,7 @@
 # Java
 *.class
-*.log
 
-# IntelliJ
+# IntelliJ IDEA
 .idea/
 *.iml
 
